@@ -1,2 +1,2 @@
 # MapGame
-C++ Game
+C++ CLR Game
